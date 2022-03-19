@@ -1,0 +1,52 @@
+<html>
+  <head>
+    <title>Time Magazine's All-Time 100 Novels</title>
+        <!--Import library jquery-->
+        <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+  </head>
+
+   <style>h1 {text-align: center;}
+            table {align: center;}
+            table {
+                font-family: arial, sans-serif;
+                border-collapse: collapse;
+                width: 100%;
+              }
+              
+              td, th {
+                border: 1px solid black;
+                text-align: left;
+                padding: 8px;
+              }
+              
+              tr:nth-child(even) {
+                background-color: beige;
+              }
+        </style>
+
+  <body>
+        <h1>TOP 100 MELON CHARTS</h1>
+        <div id="index"></div>
+  </body>
+    <script type="text/javascript">
+        $(function(){
+            //mengambil data dari file json
+            $.get('hasilscraping.json',function(obj){
+                var str = "<table border=1>";
+                str +="<tr><td>RANK</td><td class='tables'>IMAGE<td class='tables'>TITLE</td><td class='tables'>ARTIST</td><td class='tables'>ALBUM</td><td class='tables'>WAKTU SCRAPING</tr>";
+                $.each(obj,function(n,chartlist){
+                    str += "<td class='tables'>" + chartlist.rank + "</td>"
+                    str += '<td><img src="' + chartlist.image + '"></td>';
+                    str += "<td class='tables'>" + chartlist.title + "</td>";
+                    str += "<td class='tables'>" + chartlist.artist + "</td>";
+                    str += "<td class='tables'>" + chartlist.album + "</td>";
+                    str += "<td class='tables'>" + chartlist.waktu_scraping + "</td></tr>";
+                });
+                str +="</table>";
+                $('#index').html(str);
+            });
+        });
+    </script>
+</html>

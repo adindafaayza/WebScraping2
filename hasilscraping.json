@@ -1,0 +1,802 @@
+[
+      {
+            "rank": "1",
+            "title": "TOMBOY",
+            "artist": "(\uc5ec\uc790)\uc544\uc774\ub4e4",
+            "album": "I NEVER DIE",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/90/384/10890384_20220314111504_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "2",
+            "title": "GANADARA (Feat. \uc544\uc774\uc720)",
+            "artist": "\ubc15\uc7ac\ubc94",
+            "album": "GANADARA",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/89/981/10889981_20220311110820_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "3",
+            "title": "\uc0ac\ub791\uc740 \ub298 \ub3c4\ub9dd\uac00",
+            "artist": "\uc784\uc601\uc6c5",
+            "album": "\uc2e0\uc0ac\uc640 \uc544\uac00\uc528 OST Part.2",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/107/35/654/10735654_20211008114339_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "4",
+            "title": "INVU",
+            "artist": "\ud0dc\uc5f0 (TAEYEON)",
+            "album": "INVU - The 3rd Album",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/63/559/10863559_20220214160739_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "5",
+            "title": "\ucde8\uc911\uace0\ubc31",
+            "artist": "\uae40\ubbfc\uc11d (\uba5c\ub85c\ub9dd\uc2a4)",
+            "album": "\ucde8\uc911\uace0\ubc31",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/16/959/10816959_20211217144957_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "6",
+            "title": "\ub4e3\uace0 \uc2f6\uc744\uae4c",
+            "artist": "MSG\uc6cc\ub108\ube44(M.O.M)",
+            "album": "\ub4e3\uace0 \uc2f6\uc744\uae4c",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/80/544/10880544_20220225141002_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "7",
+            "title": "\uc0ac\ub791\uc778\uac00 \ubd10",
+            "artist": "\uba5c\ub85c\ub9dd\uc2a4",
+            "album": "\uc0ac\ub791\uc778\uac00 \ubd10 (\uc0ac\ub0b4\ub9de\uc120 OST \uc2a4\ud398\uc15c \ud2b8\ub799)",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/71/162/10871162_20220217162422_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "8",
+            "title": "RUN2U",
+            "artist": "STAYC(\uc2a4\ud14c\uc774\uc528)",
+            "album": "YOUNG-LUV.COM",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/73/811/10873811_20220221141100_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "9",
+            "title": "abcdefu",
+            "artist": "GAYLE",
+            "album": "abcdefu",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/106/81/625/10681625_20210817102109_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "10",
+            "title": "\uc774\uc81c \ub098\ub9cc \ubbff\uc5b4\uc694",
+            "artist": "\uc784\uc601\uc6c5",
+            "album": "\ub0b4\uc77c\uc740 \ubbf8\uc2a4\ud130\ud2b8\ub86f \uc6b0\uc2b9\uc790 \ud2b9\uc804\uace1",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/104/12/319/10412319_20200403103006_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "11",
+            "title": "\ub2e4\uc2dc \uc0ac\ub791\ud55c\ub2e4\uba74 (\uae40\ud544 Ver.)",
+            "artist": "\uc784\uc601\uc6c5",
+            "album": "\uc0ac\ub791\uc758 \ucf5c\uc13c\ud0c0 PART56",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/106/14/238/10614238_20210525100205_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "12",
+            "title": "\uc5b8\uc81c\ub098 \uc0ac\ub791\ud574",
+            "artist": "\ucf00\uc774\uc2dc (Kassy)",
+            "album": "\uc870\uc601\uc218 \ub9ac\uba54\uc774\ud06c \ud504\ub85c\uc81d\ud2b8 Part.2",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/57/681/10857681_20220204162442_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "13",
+            "title": "\uadf8\ub300\ub77c\ub294 \uc0ac\uce58",
+            "artist": "\uc784\uc601\uc6c5",
+            "album": "\uc0ac\ub791\uc758 \ucf5c\uc13c\ud0c0 PART62",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/106/44/845/10644845_20210705203115_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "14",
+            "title": "\ubcc4\ube5b \uac19\uc740 \ub098\uc758 \uc0ac\ub791\uc544",
+            "artist": "\uc784\uc601\uc6c5",
+            "album": "\ubcc4\ube5b \uac19\uc740 \ub098\uc758 \uc0ac\ub791\uc544",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/105/75/005/10575005_20210309113840_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "15",
+            "title": "SMILEY (Feat. BIBI)",
+            "artist": "YENA (\ucd5c\uc608\ub098)",
+            "album": "\u02e3\u203f\u02e3 (SMiLEY)",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/42/611/10842611_20220117110002_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "16",
+            "title": "\uc78a\uc5c8\ub2c8",
+            "artist": "\uc784\uc601\uc6c5",
+            "album": "\uc0ac\ub791\uc758 \ucf5c\uc13c\ud0c0 PART60",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/106/33/915/10633915_20210622101307_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "17",
+            "title": "\ub108, \ub108 (N\ubc88\uc9f8 \uc5f0\uc560 X \ud718\uc778 (Whee In))",
+            "artist": "\ud718\uc778 (Whee In)",
+            "album": "\ub108, \ub108 (N\ubc88\uc9f8 \uc5f0\uc560 X \ud718\uc778 (Whee In))",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/65/624/10865624_20220211143033_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "18",
+            "title": "HERO",
+            "artist": "\uc784\uc601\uc6c5",
+            "album": "HERO",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/105/13/079/10513079_20201103201136_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "19",
+            "title": "ELEVEN",
+            "artist": "IVE (\uc544\uc774\ube0c)",
+            "album": "ELEVEN",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/107/98/794/10798794_20211201113915_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "20",
+            "title": "\ub05d\uc0ac\ub791",
+            "artist": "\uc784\uc601\uc6c5",
+            "album": "\uc0ac\ub791\uc758 \ucf5c\uc13c\ud0c0 PART61",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/106/39/384/10639384_20210628195604_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "21",
+            "title": "\ub2e4\uc815\ud788 \ub0b4 \uc774\ub984\uc744 \ubd80\ub974\uba74",
+            "artist": "\uacbd\uc11c\uc608\uc9c0, \uc804\uac74\ud638",
+            "album": "\ub2e4\uc815\ud788 \ub0b4 \uc774\ub984\uc744 \ubd80\ub974\uba74 (\uacbd\uc11c\uc608\uc9c0 x \uc804\uac74\ud638)",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/106/10/525/10610525_20210518143433_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "22",
+            "title": "Step Back",
+            "artist": "GOT the beat",
+            "album": "Step Back",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/30/791/10830791_20220103153352_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "23",
+            "title": "Bk Love",
+            "artist": "\uc784\uc601\uc6c5",
+            "album": "\ubf55\uc22d\uc544\ud559\ub2f9 PART23",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/106/32/758/10632758_20210621102906_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "24",
+            "title": "\ud68c\uc804\ubaa9\ub9c8 (Feat. Zion.T, \uc6d0\uc288\ud0c0\uc778) (Prod. Slom)",
+            "artist": "sokodomo",
+            "album": "\uc1fc\ubbf8\ub354\uba38\ub2c8 10 Episode 2",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/107/75/252/10775252_20211112142804_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "25",
+            "title": "\uc5b4\uc81c\ucc98\ub7fc",
+            "artist": "\ud3f4\ud0b4",
+            "album": "\uc5b4\uc81c\ucc98\ub7fc",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/80/605/10880605_20220225153355_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "26",
+            "title": "\uc2e0\ud638\ub4f1",
+            "artist": "\uc774\ubb34\uc9c4",
+            "album": "\uc2e0\ud638\ub4f1",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/106/07/796/10607796_20210513201807_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "27",
+            "title": "\ub9ac\ubb34\uc9c4 (Feat. MINO) (Prod. GRAY)",
+            "artist": "BE'O (\ube44\uc624)",
+            "album": "\uc1fc\ubbf8\ub354\uba38\ub2c8 10 Episode 3",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/107/84/974/10784974_20211119152051_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "28",
+            "title": "\uacc4\ub2e8\ub9d0\uace0 \uc5d8\ub9ac\ubca0\uc774\ud130",
+            "artist": "\uc784\uc601\uc6c5",
+            "album": "\uacc4\ub2e8\ub9d0\uace0 \uc5d8\ub9ac\ubca0\uc774\ud130",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm/album/images/101/95/495/10195495_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "29",
+            "title": "\ud638\ub791\uc218\uc6d4\uac00",
+            "artist": "\ud0d1\ud604",
+            "album": "\ud638\ub791\uc218\uc6d4\uac00",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/42/005/10842005_20220114144240_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "30",
+            "title": "\ub4dc\ub77c\ub9c8",
+            "artist": "\uc544\uc774\uc720",
+            "album": "\uc870\uac01\uc9d1",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/27/816/10827816_20211229143632_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "31",
+            "title": "\ub208\uc774 \uc624\uc796\uc544(Feat.\ud5e4\uc774\uc988)",
+            "artist": "\uc774\ubb34\uc9c4",
+            "album": "\ub208\uc774 \uc624\uc796\uc544(Feat.\ud5e4\uc774\uc988)",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/01/677/10801677_20211202181813_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "32",
+            "title": "STAY",
+            "artist": "The Kid LAROI, Justin Bieber",
+            "album": "Stay",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/106/46/395/10646395_20210707141710_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "33",
+            "title": "\uc874\uc7ac\ub9cc\uc73c\ub85c",
+            "artist": "\uc6d0\uc288\ud0c0\uc778",
+            "album": "\uc2a4\ubb3c\ub2e4\uc12f \uc2a4\ubb3c\ud558\ub098 OST Part 4",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/80/569/10880569_20220225143552_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "34",
+            "title": "\ub0b4 \uc0dd\uc5d0 \uc544\ub984\ub2e4\uc6b4",
+            "artist": "\uc774\uc608\uc900",
+            "album": "\ub0b4 \uc0dd\uc5d0 \uc544\ub984\ub2e4\uc6b4",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/85/094/10885094_20220304150116_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "35",
+            "title": "Next Level",
+            "artist": "aespa",
+            "album": "Next Level",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/106/09/232/10609232_20210517155130_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "36",
+            "title": "Counting Stars (Feat. Beenzino)",
+            "artist": "BE'O (\ube44\uc624)",
+            "album": "Counting Stars",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/10/162/10810162_20211210171704_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "37",
+            "title": "strawberry moon",
+            "artist": "\uc544\uc774\uc720",
+            "album": "strawberry moon",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/107/43/453/10743453_20211018165252_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "38",
+            "title": "Dreams Come True",
+            "artist": "aespa",
+            "album": "Dreams Come True - SM STATION",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/18/396/10818396_20211220135618_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "39",
+            "title": "\uc0ac\ub791\uc778\uac78",
+            "artist": "\ud55c\ub3d9\uadfc",
+            "album": "\uc0ac\ub791\uc778\uac78",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/90/071/10890071_20220311145628_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "40",
+            "title": "\ub108\ub97c \uc0dd\uac01\ud574",
+            "artist": "\uc8fc\uc2dc\ud06c (Joosiq)",
+            "album": "\ub108\ub97c \uc0dd\uac01\ud574",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/107/16/399/10716399_20210916173429_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "41",
+            "title": "Dynamite",
+            "artist": "\ubc29\ud0c4\uc18c\ub144\ub2e8",
+            "album": "Dynamite (DayTime Version)",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/104/79/150/10479150_20200918102847_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "42",
+            "title": "Weekend",
+            "artist": "\ud0dc\uc5f0 (TAEYEON)",
+            "album": "Weekend",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/106/45/654/10645654_20210706155154_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "43",
+            "title": "Butter",
+            "artist": "\ubc29\ud0c4\uc18c\ub144\ub2e8",
+            "album": "Butter",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/106/12/483/10612483_20210521111412_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "44",
+            "title": "Savage",
+            "artist": "aespa",
+            "album": "Savage - The 1st Mini Album",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/107/31/792/10731792_20211005145407_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "45",
+            "title": "\ub2a6\uc740 \ud6c4\ud68c",
+            "artist": "\uc870\ud604\uc544 (\uc5b4\ubc18\uc790\uce74\ud30c)",
+            "album": "\ub2a6\uc740 \ud6c4\ud68c",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/93/566/10893566_20220317162635_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "46",
+            "title": "\ub178\ub798 (The Song)",
+            "artist": "\ube44\ud22c\ube44",
+            "album": "Be Together",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/73/531/10873531_20220221102734_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "47",
+            "title": "Permission to Dance",
+            "artist": "\ubc29\ud0c4\uc18c\ub144\ub2e8",
+            "album": "Butter / Permission to Dance",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/106/48/182/10648182_20210709104950_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "48",
+            "title": "OHAYO MY NIGHT",
+            "artist": "\ub514\ud575 (D-Hack), PATEKO (\ud30c\ud14c\ucf54)",
+            "album": "OHAYO MY NIGHT",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/104/47/520/10447520_20200619123343_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "49",
+            "title": "\ub9cc\ub0a8\uc740 \uc27d\uace0 \uc774\ubcc4\uc740 \uc5b4\ub824\uc6cc (Feat. Leellamarz) (Prod. TOIL)",
+            "artist": "\ubca0\uc774\uc2dd (Basick)",
+            "album": "\uc1fc\ubbf8\ub354\uba38\ub2c8 10 Episode 3",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/107/84/974/10784974_20211119152051_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "50",
+            "title": "\ucc30\ub098\uac00 \uc601\uc6d0\uc774 \ub420 \ub54c (The Eternal Moment)",
+            "artist": "\ub9c8\ud06c\ud23d (MAKTUB)",
+            "album": "Red Moon : Beyond The Light",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/107/16/174/10716174_20210916153439_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "51",
+            "title": "\ubc14\ub77c\ub9cc \ubcf8\ub2e4",
+            "artist": "MSG\uc6cc\ub108\ube44(M.O.M)",
+            "album": "MSG\uc6cc\ub108\ube44 1\uc9d1",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/106/38/275/10638275_20210625172521_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "52",
+            "title": "Can't Control Myself",
+            "artist": "\ud0dc\uc5f0 (TAEYEON)",
+            "album": "Can't Control Myself",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/43/164/10843164_20220117153738_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "53",
+            "title": "\uaca8\uc6b8\uc7a0",
+            "artist": "\uc544\uc774\uc720",
+            "album": "\uc870\uac01\uc9d1",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/27/816/10827816_20211229143632_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "54",
+            "title": "\uc0ac\uc774\ub80c Remix (Feat. UNEDUCATED KID, Paul Blanco)",
+            "artist": "\ud638\ubbf8\ub4e4",
+            "album": "\uc0ac\uc774\ub80c Remix",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/105/80/227/10580227_20210319163608_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "55",
+            "title": "Christmas Tree",
+            "artist": "V",
+            "album": "\uadf8 \ud574 \uc6b0\ub9ac\ub294 OST Part.5",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/23/566/10823566_20211224141829_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "56",
+            "title": "My Universe",
+            "artist": "Coldplay, \ubc29\ud0c4\uc18c\ub144\ub2e8",
+            "album": "My Universe",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/107/20/913/10720913_20210923173742_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "57",
+            "title": "\ubb38\ub4dd",
+            "artist": "BE'O (\ube44\uc624)",
+            "album": "Bipolar",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/106/01/149/10601149_20210430171555_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "58",
+            "title": "\uc11c\ub78d",
+            "artist": "10CM",
+            "album": "\uadf8 \ud574 \uc6b0\ub9ac\ub294 OST Part.1",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/04/190/10804190_20211210110205_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "59",
+            "title": "\ub77c\uc77c\ub77d",
+            "artist": "\uc544\uc774\uc720",
+            "album": "IU 5th Album 'LILAC'",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/105/54/246/10554246_20210325161233_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "60",
+            "title": "\uc5b8\ub355\ub098\ubb34",
+            "artist": "\uc774\uc2b9\uc724",
+            "album": "\uadf8 \ud574 \uc6b0\ub9ac\ub294 OST Part.7",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/31/160/10831160_20220103201648_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "61",
+            "title": "Starlight",
+            "artist": "\ud0dc\uc77c (TAEIL)",
+            "album": "\uc2a4\ubb3c\ub2e4\uc12f \uc2a4\ubb3c\ud558\ub098 OST Part 1",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/65/475/10865475_20220211125700_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "62",
+            "title": "\uaf43 (With \uae40\ubbfc\uc11d of \uba5c\ub85c\ub9dd\uc2a4)",
+            "artist": "\ubc15\ubd04 (Park Bom)",
+            "album": "\uaf43",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/89/476/10889476_20220310171020_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "63",
+            "title": "\uc78a\uc744 \uc218 \uc788\uc744\uae4c",
+            "artist": "\ub178\uc744",
+            "album": "\uc774\ubcc4\uc744 \ub9d0\ud558\ub294",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/62/733/10862733_20220209160349_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "64",
+            "title": "VOYAGER",
+            "artist": "\uae30\ud604 (\ubaac\uc2a4\ud0c0\uc5d1\uc2a4)",
+            "album": "VOYAGER",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/91/301/10891301_20220315103913_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "65",
+            "title": "\ubd04\ub0a0",
+            "artist": "\ubc29\ud0c4\uc18c\ub144\ub2e8",
+            "album": "YOU NEVER WALK ALONE",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm/album/images/100/37/969/10037969_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "66",
+            "title": "Celebrity",
+            "artist": "\uc544\uc774\uc720",
+            "album": "IU 5th Album 'LILAC'",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/105/54/246/10554246_20210325161233_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "67",
+            "title": "\ub108\uc758 \ubaa8\ub4e0 \uc21c\uac04",
+            "artist": "\uc131\uc2dc\uacbd",
+            "album": "\ubcc4\uc5d0\uc11c \uc628 \uadf8\ub300 OST Part.7",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm/album/images/022/32/505/2232505_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "68",
+            "title": "\uc544\uc8fc, \ucc9c\ucc9c\ud788",
+            "artist": "\ube44\ube44 (BIBI)",
+            "album": "\uc2a4\ubb3c\ub2e4\uc12f \uc2a4\ubb3c\ud558\ub098 OST Part 3",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/72/409/10872409_20220218150216_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "69",
+            "title": "\uc6b0\ub9ac\uac00 \ud5e4\uc5b4\uc838\uc57c \ud588\ub358 \uc774\uc720",
+            "artist": "\ube44\ube44 (BIBI)",
+            "album": "\uadf8 \ud574 \uc6b0\ub9ac\ub294 OST Part.2",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/10/337/10810337_20211210183500_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "70",
+            "title": "\uc190\uc744 \uc7a1\ub294\ub2e4\uac70\ub098, \uac19\uc774 \uac77\ub294\ub2e4\uac70\ub098",
+            "artist": "\uc801\uc7ac",
+            "album": "Trip:Tape #01",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/79/335/10879335_20220224130522_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "71",
+            "title": "\ud5e4\ud508 \uc6b0\uc5f0",
+            "artist": "\ud5e4\uc774\uc988 (Heize)",
+            "album": "HAPPEN",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/106/11/845/10611845_20210520170350_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "72",
+            "title": "\ud770\ub208",
+            "artist": "\uba3c\ub370\uc774 \ud0a4\uc988 (Monday Kiz)",
+            "album": "\ud770\ub208",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/09/753/10809753_20211210144137_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "73",
+            "title": "\ubc24\ud558\ub298\uc758 \ubcc4\uc744(2020)",
+            "artist": "\uacbd\uc11c",
+            "album": "\ubc24\ud558\ub298\uc758 \ubcc4\uc744(2020)",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/105/18/234/10518234_20210216102853_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "74",
+            "title": "O.O",
+            "artist": "NMIXX",
+            "album": "AD MARE",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/76/078/10876078_20220222145049_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "75",
+            "title": "Bad Habits",
+            "artist": "Ed Sheeran",
+            "album": "=",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/106/37/411/10637411_20211028175937_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "76",
+            "title": "MY BAG",
+            "artist": "(\uc5ec\uc790)\uc544\uc774\ub4e4",
+            "album": "I NEVER DIE",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/90/384/10890384_20220314111504_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "77",
+            "title": "\ub9cc\uac1c (Prod. \uc2e0\uc9c0\ud6c4)",
+            "artist": "\uae40\ud638\uc911",
+            "album": "\uc6b0\ub9ac\u5bb6",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/104/86/198/10486198_20200904151851_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "78",
+            "title": "Off My Face",
+            "artist": "Justin Bieber",
+            "album": "Justice (The Complete Edition)",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/105/80/103/10580103_20211008114642_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "79",
+            "title": "Stronger (What Doesn't Kill You)",
+            "artist": "Kelly Clarkson",
+            "album": "Stronger (What Doesn't Kill You) (Digital Audio Bundle)",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm/album/images/020/76/213/2076213_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "80",
+            "title": "\uace0\ubc31",
+            "artist": "\uba5c\ub85c\ub9dd\uc2a4",
+            "album": "\uc138 \ubc88\uc9f8 '\uace0\ubc31'",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/106/95/590/10695590_20210827162225_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "81",
+            "title": "\ubaa8\ub4e0 \ub0a0, \ubaa8\ub4e0 \uc21c\uac04 (Every day, Every Moment)",
+            "artist": "\ud3f4\ud0b4",
+            "album": "'\ud0a4\uc2a4 \uba3c\uc800 \ud560\uae4c\uc694?' OST Part.3",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm/album/images/101/49/492/10149492_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "82",
+            "title": "\uc624\ub298\ub3c4 \ube5b\ub098\ub294 \ub108\uc5d0\uac8c (To You My Light) (Feat.\uc774\ub77c\uc628)",
+            "artist": "\ub9c8\ud06c\ud23d (MAKTUB)",
+            "album": "Red Moon : To You My Light",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm/album/images/102/94/603/10294603_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "83",
+            "title": "Blueming",
+            "artist": "\uc544\uc774\uc720",
+            "album": "Love poem",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/103/46/650/10346650_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "84",
+            "title": "\ub099\ud558 (with \uc544\uc774\uc720)",
+            "artist": "AKMU (\uc545\ubba4)",
+            "album": "NEXT EPISODE",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/106/61/658/10661658_20210726111159_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "85",
+            "title": "With",
+            "artist": "\uae40\ud0dc\ub9ac, \ub0a8\uc8fc\ud601, \ubcf4\ub098(\uc6b0\uc8fc\uc18c\ub140), \ucd5c\ud604\uc6b1, \uc774\uc8fc\uba85",
+            "album": "\uc2a4\ubb3c\ub2e4\uc12f \uc2a4\ubb3c\ud558\ub098 OST Part 7",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/90/019/10890019_20220311132730_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "86",
+            "title": "\ub124\uac00 \uc5c6\ub294 \ubc24 (Feat. ASH ISLAND) (Prod. GRAY)",
+            "artist": "BE'O (\ube44\uc624)",
+            "album": "\uc1fc\ubbf8\ub354\uba38\ub2c8 10 Final",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/02/694/10802694_20211203143302_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "87",
+            "title": "\uc5b4\ub5bb\uac8c \uc774\ubcc4\uae4c\uc9c0 \uc0ac\ub791\ud558\uaca0\uc5b4, \ub110 \uc0ac\ub791\ud558\ub294 \uac70\uc9c0",
+            "artist": "AKMU (\uc545\ubba4)",
+            "album": "\ud56d\ud574",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/103/31/947/10331947_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "88",
+            "title": "\ub098\ubcf4\ub2e4 \ub354 \uc0ac\ub791\ud574\uc694",
+            "artist": "\uae40\ud638\uc911",
+            "album": "\ub098\ubcf4\ub2e4 \ub354 \uc0ac\ub791\ud574\uc694",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/104/23/519/10423519_20200428102234_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "89",
+            "title": "\ub108 \uc544\ub2c8\uba74 \uc548\ub3fc",
+            "artist": "\uba3c\ub370\uc774 \ud0a4\uc988 (Monday Kiz)",
+            "album": "\ub108 \uc544\ub2c8\uba74 \uc548\ub3fc",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/56/183/10856183_20220203124232_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "90",
+            "title": "\ub0b4 \uc190\uc744 \uc7a1\uc544",
+            "artist": "\uc544\uc774\uc720",
+            "album": "\ucd5c\uace0\uc758 \uc0ac\ub791 OST Part.4",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm/album/images/012/86/252/1286252_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "91",
+            "title": "\ucd94\uc5b5\uc740 \ub9cc\ub0a8\ubcf4\ub2e4 \uc774\ubcc4\uc5d0 \ub0a8\uc544",
+            "artist": "\uc815\ub3d9\ud558",
+            "album": "\ucd94\uc5b5\uc740 \ub9cc\ub0a8\ubcf4\ub2e4 \uc774\ubcc4\uc5d0 \ub0a8\uc544",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/105/56/610/10556610_20210129172644_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "92",
+            "title": "\ub864\ub9b0 (Rollin')",
+            "artist": "\ube0c\ub808\uc774\ube0c\uac78\uc2a4",
+            "album": "Rollin'",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/100/43/575/10043575_20210302112520_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "93",
+            "title": "\uc791\uc740 \uac83\ub4e4\uc744 \uc704\ud55c \uc2dc (Boy With Luv) (Feat. Halsey)",
+            "artist": "\ubc29\ud0c4\uc18c\ub144\ub2e8",
+            "album": "MAP OF THE SOUL : PERSONA",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm/album/images/102/73/641/10273641_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "94",
+            "title": "MANIAC",
+            "artist": "Stray Kids (\uc2a4\ud2b8\ub808\uc774 \ud0a4\uc988)",
+            "album": "ODDINARY",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/108/93/657/10893657_20220317174829_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "95",
+            "title": "\ubc1d\uac8c \ube5b\ub098\ub294 \ubcc4\uc774 \ub418\uc5b4 \ube44\ucdb0\uc904\uac8c",
+            "artist": "\uc1a1\uc774\ud55c",
+            "album": "\ubc1d\uac8c \ube5b\ub098\ub294 \ubcc4\uc774 \ub418\uc5b4 \ube44\ucdb0\uc904\uac8c",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/105/40/298/10540298_20201229150823_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "96",
+            "title": "\ucde8\uae30\ub97c \ube4c\ub824 (\ucde8\ud5a5\uc800\uaca9 \uadf8\ub140 X \uc0b0\ub4e4)",
+            "artist": "\uc0b0\ub4e4",
+            "album": "\ucde8\uae30\ub97c \ube4c\ub824 (\ucde8\ud5a5\uc800\uaca9 \uadf8\ub140 X \uc0b0\ub4e4)",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/104/63/600/10463600_20200720152905_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "97",
+            "title": "\uadf8\uac8c \ub354 \ud3b8\ud560 \uac83 \uac19\uc544 (N\ubc88\uc9f8 \uc5f0\uc560 X \uba5c\ub85c\ub9dd\uc2a4)",
+            "artist": "\uba5c\ub85c\ub9dd\uc2a4",
+            "album": "\uadf8\uac8c \ub354 \ud3b8\ud560 \uac83 \uac19\uc544 (N\ubc88\uc9f8 \uc5f0\uc560 X \uba5c\ub85c\ub9dd\uc2a4)",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/107/92/490/10792490_20211125152224_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "98",
+            "title": "Wake Up (Prod. \ucf54\ub4dc \ucfe4\uc2a4\ud2b8)",
+            "artist": "\uac1c\ucf54, \uc544\uc6b0\ub9b4\uace0\ud2b8 (OUREALGOAT), SINCE, \uc548\ubcd1\uc6c5, Tabber, \uc870\uad11\uc77c",
+            "album": "\uc1fc\ubbf8\ub354\uba38\ub2c8 10 Episode 1",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/107/65/081/10765081_20211105144652_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "99",
+            "title": "\ubd88\ud611\ud654\uc74c (Feat. AKMU) (Prod. GRAY)",
+            "artist": "Mudd the student",
+            "album": "\uc1fc\ubbf8\ub354\uba38\ub2c8 10 Semi Final",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/107/93/912/10793912_20211126141422_500.jpg/melon/resize/120/quality/80/optimize"
+      },
+      {
+            "rank": "100",
+            "title": "Savage Love (Laxed - Siren Beat) (BTS Remix)",
+            "artist": "Jawsh 685, Jason Derulo, \ubc29\ud0c4\uc18c\ub144\ub2e8",
+            "album": "Savage Love (Laxed - Siren Beat) [BTS Remix]",
+            "waktu_scraping": "19 March 2022 22:33:17",
+            "image": "https://cdnimg.melon.co.kr/cm2/album/images/104/98/123/10498123_20201002094556_500.jpg/melon/resize/120/quality/80/optimize"
+      }
+]
